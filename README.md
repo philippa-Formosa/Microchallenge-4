@@ -6,7 +6,7 @@
 
 
 
-## Our Sensing Ball will achieve these goals 
+### Our Sensing Ball will achieve these goals 
 **CAPTURING HEIGHTENED SENSIVITY OF OUR ENVIRONMENT**
 **Tactility**
 -Capturing with different metrics, the effect of artificial and natural materials. To understand the partisipents hightened sensitivity through tactics and what is the difference between their perceptions and ours connected in the natural and built environment.
