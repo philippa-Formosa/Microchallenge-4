@@ -1,7 +1,7 @@
 # Sensing Ball 
 ## FabAcademy Microchallenge 4
 [Borka](https://borbalamoravcsik.github.io/mdef-borka/),
-[Didac](https://didac-torrent.github.io/mdef/),
+[Dídac](https://didac-torrent.github.io/mdef/),
 [Pippa](https://philippa-formosa.github.io/mdefweb/)
 
 
@@ -31,11 +31,11 @@ with different materials in the natural or builr environment.
 
 
 ### To help to sense our environment when there is limitations with our senses
-![p030bb1t](https://user-images.githubusercontent.com/92103034/171842448-46180065-6d80-4e45-ab45-94af429a37d2.jpeg =x200) 
+![p030bb1t](https://user-images.githubusercontent.com/92103034/171842448-46180065-6d80-4e45-ab45-94af429a37d2.jpeg) 
 
 ### Purpose
 
-To help to understand how kids kids withe heightened sensivities (the ones who are actually affected by the built and natural environment around us) understand the environment around them, how they move around in spaces and what kind of materials are they connected to the most in different environments. And turn the data back to create better spaces which would support their tactile and imaginative development. 
+To help to understand how kids with heightened sensivities (the ones who are actually affected by the built and natural environment around us) understand the environment around them, how they move around in spaces and what kind of materials are they connected to the most in different environments. And turn the data back to create better spaces which would support their tactile and imaginative development. 
 
 To help visually impaired people to understand more their surroundings and how they move around in spaces, to connect them to different materialities and understand their heightened sensivities and create and audiovisual experience from their perceptions. 
 
@@ -45,9 +45,12 @@ To help visually impaired people to understand more their surroundings and how t
 ### Gamified tactility game:
 ![tactility 26](https://user-images.githubusercontent.com/92103034/171842500-6a25c299-9b43-45ae-b595-6eb8a82f5078.png)
 
-### wearable for environmental sensing:
+### Device for environmental sensing:
 
 To connect them together into one artefact and to connect it to different sensivities we teamed up with Dídac and we created an artefact that can be carried around with wearing on our bodies and can create a gamified fun experience fow it's users.
+![Untitled 19](https://user-images.githubusercontent.com/92103006/171863666-cc4b443f-a763-41e0-9bc7-c0e879132b8d.jpg)
+
+
 
 
 ### Fabrication Process and Materials
@@ -65,6 +68,13 @@ For the printing part, we used Ultimaker Cura to slice each part in a way to red
 
 After printing, we added some inserts to the ball in order to use screws to join the different parts of the device.
 
+![WhatsApp Image 2022-06-03 at 13 23 48 (1)](https://user-images.githubusercontent.com/92103034/171846258-0632d188-6ee9-44f2-a6a2-fc28d02d7ea0.jpeg)
+
+![WhatsApp Image 2022-06-03 at 13 23 48](https://user-images.githubusercontent.com/92103034/171846202-d3227a7b-1391-455d-9356-28a8168ee347.jpeg)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/92103006/171864562-d38142ba-029e-4990-816c-98c31acee472.gif)
+
+![printed ball](https://user-images.githubusercontent.com/92103006/171866957-7913f788-bb8a-4126-a440-0cd0a98db166.jpg)
 
 #### molding and casting:
 - 1 tactility element: Hydrocal white (colored with black ink)
@@ -88,7 +98,7 @@ After printing, we added some inserts to the ball in order to use screws to join
   - LED lights 
  
 References used 
-- [1 Giroscop GY-61 accelrometer](https://forum.arduino.cc/t/how-to-use-the-adxl355-or-gy-61-accelrometer/331047)
+- [1 Gyroscope GY-61 accelrometer](https://forum.arduino.cc/t/how-to-use-the-adxl355-or-gy-61-accelrometer/331047)
 - [1 Microphone Analog Sound Sensor V2.2](https://www.e-tinkers.com/2019/10/using-a-thermistor-with-arduino-and-unexpected-esp32-adc-non-linearity/)
 - [4 Piezo sensor with 10k resistor](https://www.arduino.cc/reference/en/libraries/thermistorlibrary/)
 - [1 Battery ](https://www.arduino.cc/reference/en/libraries/thermistorlibrary/)
@@ -106,13 +116,11 @@ The final sensor we used was the Giroscop this senor was the hardest to collect 
 Trying to understand such a complex code for the first time all 3 of us where doing was a bit challenging, but this didnt fase us to ge the out come we wanted. 
 
 
-
 - [Analog Pins](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/pinouts)
 - [Bluetooth](https://www.prometec.net/esp32-serial-bluetooth/)
-- [Bluetooth Library] [Uploading BluetoothSerial.zip…]
-- [Blue Tooth with P5](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
-- [P5 with Giroscop](https://p5js.org/reference/#/p5/strokeWeight)
-- [P5 with Giroscop](https://p5js.org/reference/#/p5/stroke)
+- [Bluetooth with P5](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
+- [P5 with Gyroscope](https://p5js.org/reference/#/p5/strokeWeight)
+- [P5 with Gyroscope](https://p5js.org/reference/#/p5/stroke)
 
 #### System Diagram
 
@@ -121,12 +129,10 @@ Trying to understand such a complex code for the first time all 3 of us where do
 
 
 #### Integrated Design
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/92103006/171867668-4d497e07-db03-4473-bf7c-b042d23ff174.gif)
+![WhatsApp Image 2022-06-03 at 15 22 07](https://user-images.githubusercontent.com/92103006/171864777-0902cb98-bf31-4e92-886b-c081f213c51f.jpeg)
+![WhatsApp Image 2022-06-03 at 15 22 57](https://user-images.githubusercontent.com/92103006/171864781-82359838-1649-4748-8da5-231993c31406.jpeg)
 
-![WhatsApp Image 2022-06-03 at 13 23 48 (2)](https://user-images.githubusercontent.com/92103034/171846355-e8772273-6a97-4d3b-a5b7-aefefa4b34da.jpeg)
-
-![WhatsApp Image 2022-06-03 at 13 23 48 (1)](https://user-images.githubusercontent.com/92103034/171846258-0632d188-6ee9-44f2-a6a2-fc28d02d7ea0.jpeg)
-
-![WhatsApp Image 2022-06-03 at 13 23 48](https://user-images.githubusercontent.com/92103034/171846202-d3227a7b-1391-455d-9356-28a8168ee347.jpeg)
 
 
 #### Future Development Opportunities
