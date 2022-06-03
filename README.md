@@ -68,9 +68,7 @@ For the printing part, we used Ultimaker Cura to slice each part in a way to red
 
 After printing, we added some inserts to the ball in order to use screws to join the different parts of the device.
 
-![WhatsApp Image 2022-06-03 at 13 23 48 (1)](https://user-images.githubusercontent.com/92103034/171846258-0632d188-6ee9-44f2-a6a2-fc28d02d7ea0.jpeg)
-
-![WhatsApp Image 2022-06-03 at 13 23 48](https://user-images.githubusercontent.com/92103034/171846202-d3227a7b-1391-455d-9356-28a8168ee347.jpeg)
+![3d mdoel](https://user-images.githubusercontent.com/92103006/171870773-c2ba1572-3d58-4521-b229-4162c4d5125b.jpg)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/92103006/171864562-d38142ba-029e-4990-816c-98c31acee472.gif)
 
