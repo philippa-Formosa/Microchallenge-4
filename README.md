@@ -16,17 +16,67 @@ To be able and imagine what we need in the spaces based on the generated drawing
 
 ### Concept
 
+An gamified audiovisual system, to capture different perception of different environments.
+Capturing movements, sounds and sensing of materials. Visualizing the movements of the body in a space, the connection
+with different materials in the natural or builr environment.
+
+![concept-04](https://user-images.githubusercontent.com/92103034/171836534-033ea76d-cec9-4615-a418-924802a4c84b.png)
+
+
 
 ### Why?
 
+### To understand our environment with a higher sensibility
+![sensinf-01](https://user-images.githubusercontent.com/92103034/171842441-b733ba03-4375-4731-8f8c-22322b14651b.png)
+
+
+### To help to sense our environment when there is limitations with our senses
+![p030bb1t](https://user-images.githubusercontent.com/92103034/171842448-46180065-6d80-4e45-ab45-94af429a37d2.jpeg)
 
 ### Purpose
+
+To help to understand how kids kids withe heightened sensivities (the ones who are actually affected by the built and natural environment around us) understand the environment around them, how they move around in spaces and what kind of materials are they connected to the most in different environments. And turn the data back to create better spaces which would support their tactile and imaginative development. 
+
+To help visually impaired people to understand more their surroundings and how they move around in spaces, to connect them to different materialities and understand their heightened sensivities and create and audiovisual experience from their perceptions. 
 
 
 ### Plan And Execution
 
+### Gamified tactility game:
+![tactility 26](https://user-images.githubusercontent.com/92103034/171842500-6a25c299-9b43-45ae-b595-6eb8a82f5078.png)
+
+### wearable for environmental sensing:
+
+To connect them together into one artefact and to connect it to different sensivities we teamed up with Dídac and we created an artefact that can be carried around with wearing on our bodies and can create a gamified fun experience fow it's users.
+
 
 ### Fabrication Process and Materials
+
+![fabrication_proccess-01](https://user-images.githubusercontent.com/92103034/171836492-4b694cf9-20f5-4d6a-afc1-36be91839017.png)
+
+#### 3D printing:
+- the ball - Semi transparent PETG
+- 1 tactility element - white PLA (painted with spray paint)
+- Positive shape for silicone mold
+
+For the production of the ball, we decided to use 3D printing as a fabrication method since it was the one that offered us the most adaptability to all the electronic components and the functionalities we wanted it to have. We used Fusion 360 to make the 3D model of the ball and some other parts that would keep materials and everything in place. We designed it also in a modular way, creating some attachment points that would allow us to screw more components or structures inside if needed in the future.
+
+For the printing part, we used Ultimaker Cura to slice each part in a way to reduce support structures and as a consequence also printing time. At the same time, this helped use less material and have less waste. We used PETG as the primary material for the ball because of its properties and considering that the ball would get some hit from time to time. The aim of using transparent PETG was also to be able to project light through the material from inside and give the ball a bit more life.
+
+After printing, we added some inserts to the ball in order to use screws to join the different parts of the device.
+
+
+#### molding and casting:
+- 1 tactility element: Hydrocal white (colored with black ink)
+- 1 tactility element: Agar-agar biomaterial (colored with spirulina)
+
+#### CNC milling:
+- 1 tactility element: Birch wood 
+
+#### Felting:
+- 1 tactility element: Wool 
+
+![fabrication_proccess-02](https://user-images.githubusercontent.com/92103034/171836513-2070d818-d162-4066-89fb-6c11f3f628d1.png)
 
 
 #### Electronics
@@ -61,23 +111,51 @@ The final sensor we used was the Giroscop this senor was the hardest to collect 
 - [Blue Tooth with P5](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
 - [P5 with Giroscop](https://p5js.org/reference/#/p5/strokeWeight)
 - [P5 with Giroscop](https://p5js.org/reference/#/p5/stroke)
-- 
-
 
 #### System Diagram
 
 
+![systemdiagramm-01](https://user-images.githubusercontent.com/92103034/171836607-36adfc45-8fe4-43bd-9fdb-fe8dce31ff39.png)
 
 
 #### Integrated Design
 
+![WhatsApp Image 2022-06-03 at 13 23 48 (2)](https://user-images.githubusercontent.com/92103034/171846355-e8772273-6a97-4d3b-a5b7-aefefa4b34da.jpeg)
+
+![WhatsApp Image 2022-06-03 at 13 23 48 (1)](https://user-images.githubusercontent.com/92103034/171846258-0632d188-6ee9-44f2-a6a2-fc28d02d7ea0.jpeg)
+
+![WhatsApp Image 2022-06-03 at 13 23 48](https://user-images.githubusercontent.com/92103034/171846202-d3227a7b-1391-455d-9356-28a8168ee347.jpeg)
 
 
 #### Future Development Opportunities
 
+- Modular structure for the electronics inside the ball
+- A shield for the esp feather
+- Change of materials (matt material or a light in the ball) - for more friendly aesthetics
+- Develope the interface of P5 for better understendable graphics
+
 
 #### Hiccups
-
+ 
+- A lots of lots of hiccups with the code, it was a platform for study for all of us
+- The behaviour of the biomateriel, next time mold a bigger one than the exact shape and be aware of the shrink
+- Some hiccups with the inside sturcture of the object
 
 
 #### Open-source design and fabrication files
+
+#### Stl files for 3D printing (PLA and PETG)
+- Tactility element 1:
+
+#### Rhino file for CNC milling: 
+
+
+#### Recipe for the biomaterial (@Anna Mestres): 
+- Agar agar: 4 gr
+- Glicerin 10-15 ml
+- Water 80 ml
+- Microwave until it has a fom and bolis: 1,20 min
+
+#### Hydrocal white: 
+- 1:5 water and hydrocal
+
