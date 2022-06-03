@@ -101,7 +101,9 @@ References used
 For the Electronics part of the design we used The ESP32 Feather microcontroller. For this design we used different analog and transferred information through BlueTooth. The links of the tutorials we used are below, just some helpful tips with P5 Serial Controller on a window is that the select port is for both ports and BlueTooth so if you aren't seeing it show up don’t panic it is there. 
  
 We connected all the different sensors slowly to make sure each worked with the code that was found in the links below. We had 6 different inputs. We had 4 Piezo Sensors that worked with the same code, we used these sensors to detect popularity in different materials, with using P5 we could see the date that is collected from each material. Each Piezo Sensor had a 1M Resistor attached to both the ground and the different pins. For the Mocrophone we connected the pins to V3, ground and an analog pin, we used a basic Arduino Code which will be collecting data.
-The final sensor we used was the Giroscop this senor was the hardest to collect data from as we needed to figure out how to transform with p5 the direction if was going into to a data collected drawing. The pins we used was V3, ground and 3 different analogs. 
+The final sensor we used was the Giroscop this senor was the hardest to collect data from as we needed to figure out how to transform with p5 the direction if was going into to a data collected drawing. The pins we used was V3, ground and 3 different analogs.
+
+Trying to understand such a complex code for the first time all 3 of us where doing was a bit challenging, but this didnt fase us to ge the out come we wanted. 
 
 
 
@@ -137,9 +139,10 @@ The final sensor we used was the Giroscop this senor was the hardest to collect 
 
 #### Hiccups
  
-- A lots of lots of hiccups with the code, it was a platform for study for all of us
+- A lots of lots of hiccups with the code, it was a platform for study for all of us as we were always in group with had people who knew more about coding then we did. But the fablab team helped us and showed us how eahc system worked on its own.
 - The behaviour of the biomateriel, next time mold a bigger one than the exact shape and be aware of the shrink
 - Some hiccups with the inside sturcture of the object
+- Coming to the last 20min of thes eproject we had a fault in the electronics this made us not manage to take the ball with all the sensors to the workshop, never the less are good reserch designers we are we had some other tools up our sleave to see how to make this workshop still create the data we wanted. 
 
 
 #### Open-source design and fabrication files
@@ -158,4 +161,10 @@ The final sensor we used was the Giroscop this senor was the hardest to collect 
 
 #### Hydrocal white: 
 - 1:5 water and hydrocal
+
+#### Codes:
+
+- [P5](https://editor.p5js.org/philippa-Formosa/sketches/NT09r6K3H)
+- [Arduino](https://www.notion.so/Fab-Challenge-4-a55f90cbd074407a86a914ada8ca7fbb)
+
 
