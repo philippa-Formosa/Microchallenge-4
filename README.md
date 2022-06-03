@@ -31,7 +31,7 @@ with different materials in the natural or builr environment.
 
 
 ### To help to sense our environment when there is limitations with our senses
-![p030bb1t](https://user-images.githubusercontent.com/92103034/171842448-46180065-6d80-4e45-ab45-94af429a37d2.jpeg)
+![p030bb1t](https://user-images.githubusercontent.com/92103034/171842448-46180065-6d80-4e45-ab45-94af429a37d2.jpeg =x200) 
 
 ### Purpose
 
