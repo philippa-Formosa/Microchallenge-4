@@ -50,12 +50,19 @@ References used
 #### Fabrication of Electronics 
 For the Electronics part of the design we used The ESP32 Feather microcontroller. For this design we used different analog and transferred information through BlueTooth. The links of the tutorials we used are below, just some helpful tips with P5 Serial Controller on a window is that the select port is for both ports and BlueTooth so if you aren't seeing it show up don’t panic it is there. 
  
-We connected all the different sensors slowly to make sure each worked with the code that was found in the links below. We had 6 different inputs. We had 4 Piezo Sensors that worked with the same code, we used these sensors to detect popularity in different materials, with using P5 we could see the date that is collected from each material. Each Piezo Sensor had a 1M Resistor attached to both the ground and the different pins. For the Mocrophone we connected the pins to V3, ground and an analog pin, we used a basic Arduino Code which will be collecting data. 
+We connected all the different sensors slowly to make sure each worked with the code that was found in the links below. We had 6 different inputs. We had 4 Piezo Sensors that worked with the same code, we used these sensors to detect popularity in different materials, with using P5 we could see the date that is collected from each material. Each Piezo Sensor had a 1M Resistor attached to both the ground and the different pins. For the Mocrophone we connected the pins to V3, ground and an analog pin, we used a basic Arduino Code which will be collecting data.
+The final sensor we used was the Giroscop this senor was the hardest to collect data from as we needed to figure out how to transform with p5 the direction if was going into to a data collected drawing. The pins we used was V3, ground and 3 different analogs. 
+
+
 
 - [Analog Pins](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/pinouts)
-- [Blue Tooth](https://www.prometec.net/esp32-serial-bluetooth/)
+- [Bluetooth](https://www.prometec.net/esp32-serial-bluetooth/)
+- [Bluetooth Library] [Uploading BluetoothSerial.zip…]
 - [Blue Tooth with P5](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
+- [P5 with Giroscop](https://p5js.org/reference/#/p5/strokeWeight)
+- [P5 with Giroscop](https://p5js.org/reference/#/p5/stroke)
 - 
+
 
 #### System Diagram
 
