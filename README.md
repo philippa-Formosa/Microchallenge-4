@@ -38,7 +38,7 @@ To be able and imagine what we need in the spaces based on the generated drawing
   - LED lights 
  
 References used 
-- [Giroscop GY-61 accelrometer](https://esp32io.com/tutorials/esp32-light-sensor](https://forum.arduino.cc/t/how-to-use-the-adxl355-or-gy-61-accelrometer/331047)
+- [Giroscop GY-61 accelrometer](https://forum.arduino.cc/t/how-to-use-the-adxl355-or-gy-61-accelrometer/331047)
 - [Microphoto](https://www.e-tinkers.com/2019/10/using-a-thermistor-with-arduino-and-unexpected-esp32-adc-non-linearity/)
 - [Piezo sensor with 10k resistor](https://www.arduino.cc/reference/en/libraries/thermistorlibrary/)
 - [Battery ](https://www.arduino.cc/reference/en/libraries/thermistorlibrary/)
