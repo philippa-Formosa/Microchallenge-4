@@ -37,7 +37,7 @@ with different materials in the natural or builr environment.
 
 To help to understand how kids with heightened sensivities (the ones who are actually affected by the built and natural environment around us) understand the environment around them, how they move around in spaces and what kind of materials are they connected to the most in different environments. And turn the data back to create better spaces which would support their tactile and imaginative development. 
 
-To help visually impaired people to understand more their surroundings and how they move around in spaces, to connect them to different materialities and understand their heightened sensivities and create and audiovisual experience from their perceptions. 
+To help people to understand more their surroundings and how they move around in spaces, to connect them to different materialities and understand their heightened sensivities and create and audiovisual experience from their perceptions. 
 
 
 ### Plan And Execution
