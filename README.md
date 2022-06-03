@@ -20,7 +20,7 @@ An gamified audiovisual system, to capture different perception of different env
 Capturing movements, sounds and sensing of materials. Visualizing the movements of the body in a space, the connection
 with different materials in the natural or builr environment.
 
-![concept-04](https://user-images.githubusercontent.com/92103034/171836534-033ea76d-cec9-4615-a418-924802a4c84b.png | width=50)
+![concept-04](https://user-images.githubusercontent.com/92103034/171836534-033ea76d-cec9-4615-a418-924802a4c84b.png)
 
 
 
