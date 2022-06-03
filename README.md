@@ -38,16 +38,24 @@ To be able and imagine what we need in the spaces based on the generated drawing
   - LED lights 
  
 References used 
-- [Giroscop GY-61 accelrometer](https://forum.arduino.cc/t/how-to-use-the-adxl355-or-gy-61-accelrometer/331047)
-- [Microphoto](https://www.e-tinkers.com/2019/10/using-a-thermistor-with-arduino-and-unexpected-esp32-adc-non-linearity/)
-- [Piezo sensor with 10k resistor](https://www.arduino.cc/reference/en/libraries/thermistorlibrary/)
-- [Battery ](https://www.arduino.cc/reference/en/libraries/thermistorlibrary/)
+- [1 Giroscop GY-61 accelrometer](https://forum.arduino.cc/t/how-to-use-the-adxl355-or-gy-61-accelrometer/331047)
+- [1 Microphone Analog Sound Sensor V2.2](https://www.e-tinkers.com/2019/10/using-a-thermistor-with-arduino-and-unexpected-esp32-adc-non-linearity/)
+- [4 Piezo sensor with 10k resistor](https://www.arduino.cc/reference/en/libraries/thermistorlibrary/)
+- [1 Battery ](https://www.arduino.cc/reference/en/libraries/thermistorlibrary/)
 - [LED lights](https://www.arduino.cc/reference/en/libraries/thermistorlibrary/)
 - [P5](https://p5js.org/reference/#/p5/line)
 - [P5](https://p5js.org/reference/#/p5/strokeWeight)
+- 4 1M Resistors 
 
-#### Fabrication
+#### Fabrication of Electronics 
+For the Electronics part of the design we used The ESP32 Feather microcontroller. For this design we used different analog and transferred information through BlueTooth. The links of the tutorials we used are below, just some helpful tips with P5 Serial Controller on a window is that the select port is for both ports and BlueTooth so if you aren't seeing it show up don’t panic it is there. 
+ 
+We connected all the different sensors slowly to make sure each worked with the code that was found in the links below. We had 6 different inputs. We had 4 Piezo Sensors that worked with the same code, we used these sensors to detect popularity in different materials, with using P5 we could see the date that is collected from each material. Each Piezo Sensor had a 1M Resistor attached to both the ground and the different pins. For the Mocrophone we connected the pins to V3, ground and an analog pin, we used a basic Arduino Code which will be collecting data. 
 
+- [Analog Pins](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/pinouts)
+- [Blue Tooth](https://www.prometec.net/esp32-serial-bluetooth/)
+- [Blue Tooth with P5](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
+- 
 
 #### System Diagram
 
